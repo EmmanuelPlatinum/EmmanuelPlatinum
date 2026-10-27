@@ -37,7 +37,7 @@ Atuo no desenvolvimento de soluções web, automação e aprendizado contínuo. 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmmanuelPlatinum&theme=dark" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelPlatinum&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </p>
 
 ### 📫 Vamos nos conectar?
