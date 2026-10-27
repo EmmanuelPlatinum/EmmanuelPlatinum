@@ -29,7 +29,6 @@ Atuo no desenvolvimento de soluções web, automação e aprendizado contínuo. 
 
 ---
 
-### 📊 Estatísticas do GitHub
 
 ### 📊 Estatísticas do GitHub
 
