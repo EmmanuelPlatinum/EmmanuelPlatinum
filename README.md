@@ -32,9 +32,10 @@ Atuo no desenvolvimento de soluções web, automação e aprendizado contínuo. 
 
 ### 📊 Estatísticas do GitHub
 
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelPlatinum&theme=react-dark)
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelPlatinum&theme=radial" alt="Sequência de Commits" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmmanuelPlatinum&theme=radial" alt="Linguagens Mais Usadas" height="165"/>
 </p>
 
 ### 📫 Vamos nos conectar?
