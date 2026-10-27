@@ -31,9 +31,10 @@ Atuo no desenvolvimento de soluções web, automação e aprendizado contínuo. 
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EmmanuelPlatinum&show_icons=true&theme=radial&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelPlatinum&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelPlatinum&theme=radial" alt="Sequência de Commits" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelPlatinum&layout=compact&theme=radial&hide_progress=true" alt="Linguagens mais usadas" height="150"/>
+</p>
 
 ---
 
